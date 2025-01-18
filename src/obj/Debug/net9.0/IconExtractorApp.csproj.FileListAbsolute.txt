@@ -1,0 +1,12 @@
+D:\MeowIsWorking\VDesk\icon-extractor\src\bin\Debug\net9.0\IconExtractorApp.deps.json
+D:\MeowIsWorking\VDesk\icon-extractor\src\bin\Debug\net9.0\IconExtractorApp.dll
+D:\MeowIsWorking\VDesk\icon-extractor\src\bin\Debug\net9.0\IconExtractorApp.pdb
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.csproj.AssemblyReference.cache
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.AssemblyInfoInputs.cache
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.AssemblyInfo.cs
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.csproj.CoreCompileInputs.cache
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.dll
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\refint\IconExtractorApp.dll
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\IconExtractorApp.pdb
+D:\MeowIsWorking\VDesk\icon-extractor\src\obj\Debug\net9.0\ref\IconExtractorApp.dll
