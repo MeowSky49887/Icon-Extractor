@@ -1,6 +1,6 @@
 {
   "name": "icon-extractor",
-  "version": "2025.1",
+  "version": "2025.0.1",
   "description": "Node module that allows you to extract a icon from file in Windows.",
   "main": "lib/icon-extractor.js",
   "gypfile": true,
