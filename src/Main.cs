@@ -31,7 +31,7 @@ namespace MeowSkyKung
             }
             catch (Exception ex)
             {
-                return $"Error: {ex.Message}";
+                throw new Exception($"Error: {ex.Message}");
             }
         }
     }
@@ -42,14 +42,13 @@ namespace MeowSkyKung
         {
             if (args.Length != 1)
             {
-                Console.WriteLine("Usage: IconExtractor <filePath>");
-                return;
+                throw new Exception("Usage: IconExtractor <filePath>");
             }
 
             string filePath = args[0];
             string base64Icon = IconExtractor.GetIcon(filePath);
 
-            Console.WriteLine("Extracted Icon (Base64):");
+            Console.WriteLine("");
             Console.WriteLine(base64Icon);
         }
     }
