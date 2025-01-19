@@ -17,6 +17,6 @@
     "win32"
   ],
   "dependencies": {
-    "edge-js": "^23.1.4"
+    "electron-edge-js": "^33.0.5"
   }
 }
